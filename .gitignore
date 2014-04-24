@@ -8,6 +8,8 @@
 /build
 /dist
 /tags
+/.idea
+cake.iml
 
 # OS generated files #
 ######################
